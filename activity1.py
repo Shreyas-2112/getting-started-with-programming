@@ -1,5 +1,11 @@
-print("Welcome to the world of python!")
-print(4)
-print("Hello python \n")
-print("Hello",5)
-print("Welcome to", end= "*")
+A = True
+print("type of A:" ,type(A)) 
+
+B = 8.2537563748
+print("type of B:" , type(B))
+
+C = 8692538
+print("type of C:" , type(C))
+
+D = Ritvik
+print("type of D:" , type(D))
